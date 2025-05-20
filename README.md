@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{woojeans7}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ### 깃허브 프로필 만들기
 
 <!--
